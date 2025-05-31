@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 3508 2481"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   id="svg77"
+   sodipodi:docname="atomtrack.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs77"><linearGradient
+   id="swatch82"
+   inkscape:swatch="solid"><stop
+     style="stop-color:#ffd04a;stop-opacity:1;"
+     offset="0"
+     id="stop82" /></linearGradient><linearGradient
+   id="swatch81"
+   inkscape:swatch="solid"><stop
+     style="stop-color:#9a4348;stop-opacity:1;"
+     offset="0"
+     id="stop81" /></linearGradient><linearGradient
+   id="swatch80"
+   inkscape:swatch="solid"><stop
+     style="stop-color:#446f9d;stop-opacity:1;"
+     offset="0"
+     id="stop80" /></linearGradient><rect
+   x="2576.646"
+   y="536.19743"
+   width="660.8271"
+   height="399.9743"
+   id="rect77" /><linearGradient
+   inkscape:collect="always"
+   xlink:href="#swatch80"
+   id="linearGradient80"
+   x1="414.028"
+   y1="2048.8"
+   x2="1090.18"
+   y2="2048.8"
+   gradientUnits="userSpaceOnUse" /><linearGradient
+   inkscape:collect="always"
+   xlink:href="#swatch81"
+   id="linearGradient81"
+   x1="414.028"
+   y1="2048.8"
+   x2="1090.18"
+   y2="2048.8"
+   gradientUnits="userSpaceOnUse" />
+        
+        
+        
+        
+        
+        
+    
+            
+            
+            
+            
+        
+            
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        
+        
+        
+        
+        
+        
+    
+            
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+            
+            
+            
+            
+        
+        
+        
+        
+        
+        
+        
+    
+            
+        
+            
+            
+        
+            
+        
+            
+        
+            
+        
+            
+            
+            
+            
+            
+        
+        
+        
+        
+        
+        
+        
+    
+            
+        
+            
+            
+        
+            
+            
+            
+            
+            
+        
+            
+        
+            
+        
+            
+        </defs><sodipodi:namedview
+   id="namedview77"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.34502217"
+   inkscape:cx="1753.5105"
+   inkscape:cy="1241.9492"
+   inkscape:window-width="1652"
+   inkscape:window-height="933"
+   inkscape:window-x="147"
+   inkscape:window-y="26"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg77" />
+    <g
+   transform="matrix(0.998291,0,0,0.997755,640.829,-1290.7)"
+   id="g1">
+        <path
+   d="M1090.18,1554.7L1090.18,2542.91C1090.18,2560.61 1075.82,2574.98 1058.12,2574.98L446.086,2574.98C428.392,2574.98 414.028,2560.61 414.028,2542.91L414.028,1554.7C414.028,1536.99 428.392,1522.62 446.086,1522.62L1058.12,1522.62C1075.82,1522.62 1090.18,1536.99 1090.18,1554.7Z"
+   style="fill:white;fill-opacity:0.73;stroke:black;stroke-width:1px;"
+   id="path1" />
+    </g>
+    <g
+   transform="matrix(0.933277,0,0,0.956771,690.8,-1207.56)"
+   id="g2"
+   style="stroke-width:1.00005187;stroke-dasharray:none;fill:url(#linearGradient80);fill-opacity:1">
+        <path
+   d="M1090.18,1553.11L1090.18,2544.49C1090.18,2561.32 1076.18,2574.98 1058.93,2574.98L445.285,2574.98C428.034,2574.98 414.028,2561.32 414.028,2544.49L414.028,1553.11C414.028,1536.28 428.034,1522.62 445.285,1522.62L1058.93,1522.62C1076.18,1522.62 1090.18,1536.28 1090.18,1553.11Z"
+   style="fill:url(#linearGradient80);stroke-width:1.00005187;stroke-dasharray:none;fill-opacity:1"
+   id="path2" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,945.858,-279.608)"
+   id="g4">
+        <text
+   x="187.563px"
+   y="1055.92px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.333px;"
+   id="text2">Charmed Double</text>
+        <text
+   x="187.563px"
+   y="1116.16px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.333px;"
+   id="text3">Bottom Omega</text>
+        <g
+   transform="matrix(50,0,0,50,709.983,1116.17)"
+   id="g3">
+        </g>
+        <text
+   x="596.067px"
+   y="1116.16px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;"
+   id="text4">(anti)</text>
+    </g>
+    <g
+   transform="matrix(7.42033e-17,-1.21183,1.21183,7.42033e-17,653.634,1221.81)"
+   id="g5">
+        <circle
+   cx="423.473"
+   cy="610.344"
+   r="262.723"
+   style="fill:white;"
+   id="circle4" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,839.809,154.213)"
+   id="g9">
+        <g
+   transform="matrix(0.888315,0,0,0.888315,127.502,-441.43)"
+   id="g6">
+            <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:rgb(0,105,240);stroke:white;stroke-width:4.34px;"
+   id="circle5" />
+        </g>
+        <g
+   transform="matrix(0.888315,0,0,0.888315,22.3221,-569.983)"
+   id="g7">
+            <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:rgb(0,162,19);stroke:white;stroke-width:4.34px;"
+   id="circle6" />
+        </g>
+        <g
+   transform="matrix(0.888315,0,0,0.888315,-83.7528,-438.71)"
+   id="g8">
+            <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:rgb(255,41,41);stroke:white;stroke-width:4.34px;"
+   id="circle7" />
+        </g>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,793.238,-506.845)"
+   id="g11">
+        <g
+   transform="matrix(83.3333,0,0,83.3333,623.036,1058.09)"
+   id="g10">
+        </g>
+        <text
+   x="576.69px"
+   y="1058.09px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"
+   id="text10">u</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,756.224,-453.054)"
+   id="g13">
+        <g
+   transform="matrix(83.3333,0,0,83.3333,765.831,1139.84)"
+   id="g12">
+        </g>
+        <text
+   x="719.485px"
+   y="1139.84px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"
+   id="text12">d</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,670.249,-455.12)"
+   id="g15">
+        <g
+   transform="matrix(83.3333,0,0,83.3333,638.961,1139.84)"
+   id="g14">
+        </g>
+        <text
+   x="592.615px"
+   y="1139.84px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"
+   id="text14">u</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,930.073,-254.486)"
+   id="g17">
+        <text
+   x="332.747px"
+   y="1085.72px"
+   style="font-family:'ArialNarrow', 'Arial', sans-serif;font-stretch:condensed;font-size:100px;fill:rgb(68,111,157);"
+   id="text15">Proton</text>
+        <g
+   transform="matrix(100,0,0,100,521.956,1185.72)"
+   id="g16">
+        </g>
+        <text
+   x="385.14px"
+   y="1185.72px"
+   style="font-family:'ArialNarrow', 'Arial', sans-serif;font-stretch:condensed;font-size:100px;fill:rgb(68,111,157);"
+   id="text16">uud</text>
+    </g>
+    <g
+   transform="matrix(0.772979,0,0,0.772979,715.39,-480.387)"
+   id="g18">
+        <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:white;"
+   id="circle17" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1205.54,-1132.07)"
+   id="g19">
+        <text
+   x="425.998px"
+   y="1427.07px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;fill:white;"
+   id="text18">0e</text>
+    </g>
+    <g
+   transform="matrix(0.998291,0,0,0.997755,1345,-1292.55)"
+   id="g20">
+        <path
+   d="M1090.18,1554.7L1090.18,2542.91C1090.18,2560.61 1075.82,2574.98 1058.12,2574.98L446.086,2574.98C428.392,2574.98 414.028,2560.61 414.028,2542.91L414.028,1554.7C414.028,1536.99 428.392,1522.62 446.086,1522.62L1058.12,1522.62C1075.82,1522.62 1090.18,1536.99 1090.18,1554.7Z"
+   style="fill:white;fill-opacity:0.73;stroke:black;stroke-width:1px;"
+   id="path19" />
+    </g>
+    <g
+   transform="matrix(0.933277,0,0,0.956771,1394.98,-1209.41)"
+   id="g21"
+   style="fill:url(#linearGradient81);fill-opacity:1">
+        <path
+   d="M1090.18,1553.11L1090.18,2544.49C1090.18,2561.32 1076.18,2574.98 1058.93,2574.98L445.285,2574.98C428.034,2574.98 414.028,2561.32 414.028,2544.49L414.028,1553.11C414.028,1536.28 428.034,1522.62 445.285,1522.62L1058.93,1522.62C1076.18,1522.62 1090.18,1536.28 1090.18,1553.11Z"
+   style="fill:url(#linearGradient81);fill-opacity:1"
+   id="path20" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1650.03,-281.466)"
+   id="g23">
+        <text
+   x="187.563px"
+   y="1055.92px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.333px;"
+   id="text21">Charmed Double</text>
+        <text
+   x="187.563px"
+   y="1116.16px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.333px;"
+   id="text22">Bottom Omega</text>
+        <g
+   transform="matrix(50,0,0,50,709.983,1116.17)"
+   id="g22">
+        </g>
+        <text
+   x="596.067px"
+   y="1116.16px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;"
+   id="text23">(anti)</text>
+    </g>
+    <g
+   transform="matrix(7.42033e-17,-1.21183,1.21183,7.42033e-17,1357.81,1219.95)"
+   id="g24">
+        <circle
+   cx="423.473"
+   cy="610.344"
+   r="262.723"
+   style="fill:white;"
+   id="circle23" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1543.98,152.355)"
+   id="g28">
+        <g
+   transform="matrix(0.888315,0,0,0.888315,127.502,-441.43)"
+   id="g25">
+            <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:rgb(0,105,240);stroke:white;stroke-width:4.34px;"
+   id="circle24" />
+        </g>
+        <g
+   transform="matrix(0.888315,0,0,0.888315,22.3221,-569.983)"
+   id="g26">
+            <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:rgb(0,162,19);stroke:white;stroke-width:4.34px;"
+   id="circle25" />
+        </g>
+        <g
+   transform="matrix(0.888315,0,0,0.888315,-83.7528,-438.71)"
+   id="g27">
+            <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:rgb(255,41,41);stroke:white;stroke-width:4.34px;"
+   id="circle26" />
+        </g>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1497.41,-508.703)"
+   id="g30">
+        <g
+   transform="matrix(83.3333,0,0,83.3333,623.036,1058.09)"
+   id="g29">
+        </g>
+        <text
+   x="576.69px"
+   y="1058.09px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"
+   id="text29">u</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1460.4,-454.912)"
+   id="g32">
+        <g
+   transform="matrix(83.3333,0,0,83.3333,765.831,1139.84)"
+   id="g31">
+        </g>
+        <text
+   x="719.485px"
+   y="1139.84px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"
+   id="text31">d</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1374.42,-456.978)"
+   id="g34">
+        <g
+   transform="matrix(83.3333,0,0,83.3333,638.961,1139.84)"
+   id="g33">
+        </g>
+        <text
+   x="592.615px"
+   y="1139.84px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"
+   id="text33">d</text>
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1634.25,-256.344)"
+   id="g36">
+        <text
+   x="307.698px"
+   y="1085.72px"
+   style="font-family:'ArialNarrow', 'Arial', sans-serif;font-stretch:condensed;font-size:100px;fill:rgb(68,111,157);"
+   id="text34">Neutron</text>
+        <g
+   transform="matrix(100,0,0,100,521.956,1185.72)"
+   id="g35">
+        </g>
+        <text
+   x="385.14px"
+   y="1185.72px"
+   style="font-family:'ArialNarrow', 'Arial', sans-serif;font-stretch:condensed;font-size:100px;fill:rgb(68,111,157);"
+   id="text35">uud</text>
+    </g>
+    <g
+   transform="matrix(0.772979,0,0,0.772979,1419.57,-482.245)"
+   id="g37">
+        <circle
+   cx="596.596"
+   cy="1063.13"
+   r="67.682"
+   style="fill:white;"
+   id="circle36" />
+    </g>
+    <g
+   transform="matrix(1,0,0,1,1909.71,-1133.92)"
+   id="g38">
+        <text
+   x="406.532px"
+   y="1427.07px"
+   style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;fill:white;"
+   id="text37">+1e</text>
+    </g>
+    <path
+   d="m 1053.1639,1337.5547 v 985.9915 c 0,17.6602 -14.3355,31.998 -32.0052,31.998 H 410.17064 c -17.66376,0 -32.00321,-14.3378 -32.00321,-31.998 v -985.9915 c 0,-17.6702 14.33945,-32.008 32.00321,-32.008 h 610.98806 c 17.6697,0 32.0052,14.3378 32.0052,32.008 z"
+   style="fill:#ffffff;fill-opacity:0.73;stroke:#006979;stroke-width:0.998023px"
+   id="path38" /><path
+   d="m 1032.2579,1355.4556 v 948.5236 c 0,16.1025 -13.0659,29.172 -29.1649,29.172 H 430.39225 c -16.09996,0 -29.17144,-13.0695 -29.17144,-29.172 v -948.5236 c 0,-16.1024 13.07148,-29.1719 29.17144,-29.1719 H 1003.093 c 16.099,0 29.1649,13.0695 29.1649,29.1719 z"
+   style="fill:#006979;stroke-width:0.944951"
+   id="path39" /><circle
+   cx="-1785.6758"
+   cy="717.28613"
+   r="318.37561"
+   style="fill:#ffffff;stroke-width:1.21183"
+   id="circle40"
+   transform="rotate(-90)" /><g
+   transform="matrix(75,0,0,75,847.7107,1984.148)"
+   id="g42">
+            </g><text
+   x="581.07172"
+   y="1984.1479"
+   style="font-stretch:condensed;font-size:75px;font-family:ArialNarrow, Arial, sans-serif;fill:#006979;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2"
+   id="text43">Hydrogen</text><circle
+   cx="500.56418"
+   cy="1418.4312"
+   r="52.316765"
+   style="fill:#ffffff;stroke-width:0.772979"
+   id="circle43" /><g
+   transform="matrix(66.6667,0,0,66.6667,534.691,1443.838)"
+   id="g45">
+            </g><text
+   x="460.53699"
+   y="1443.838"
+   style="font-weight:700;font-size:66.667px;font-family:Arial-BoldMT, Arial, sans-serif;fill:#006979"
+   id="text45">10</text>
+    <path
+   d="m 1742.4769,1337.5547 v 985.9915 c 0,17.6602 -14.3355,31.998 -32.0052,31.998 h -610.9881 c -17.6637,0 -32.0032,-14.3378 -32.0032,-31.998 v -985.9915 c 0,-17.6702 14.3395,-32.008 32.0032,-32.008 h 610.9881 c 17.6697,0 32.0052,14.3378 32.0052,32.008 z"
+   style="fill:#ffffff;fill-opacity:0.73;stroke:#006979;stroke-width:0.998023px"
+   id="path47" /><path
+   d="m 1721.5709,1355.4556 v 948.5236 c 0,16.1025 -13.0659,29.172 -29.1649,29.172 h -572.7008 c -16.0999,0 -29.1714,-13.0695 -29.1714,-29.172 v -948.5236 c 0,-16.1024 13.0715,-29.1719 29.1714,-29.1719 h 572.7008 c 16.099,0 29.1649,13.0695 29.1649,29.1719 z"
+   style="fill:#006979;stroke-width:0.944951"
+   id="path48" /><circle
+   cx="-1785.6758"
+   cy="1406.5991"
+   r="318.37561"
+   style="fill:#ffffff;stroke-width:1.21183"
+   id="circle49"
+   transform="rotate(-90)" /><g
+   transform="matrix(75,0,0,75,1499.3767,1984.148)"
+   id="g52">
+            </g><text
+   x="1308.0317"
+   y="1984.1479"
+   style="font-stretch:condensed;font-size:75px;font-family:ArialNarrow, Arial, sans-serif;fill:#006979;stroke:#006979;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2"
+   id="text53">Helium</text><circle
+   cx="1189.8772"
+   cy="1418.4312"
+   r="52.316765"
+   style="fill:#ffffff;stroke-width:0.772979"
+   id="circle53" /><g
+   transform="matrix(66.6667,0,0,66.6667,1224.004,1443.838)"
+   id="g55">
+            </g><text
+   x="1149.85"
+   y="1443.838"
+   style="font-weight:700;font-size:66.667px;font-family:Arial-BoldMT, Arial, sans-serif;fill:#006979"
+   id="text55">45</text>
+    <path
+   d="m 2429.9259,1337.5547 v 985.9915 c 0,17.6602 -14.3355,31.998 -32.0052,31.998 h -610.9881 c -17.6637,0 -32.0032,-14.3378 -32.0032,-31.998 v -985.9915 c 0,-17.6702 14.3395,-32.008 32.0032,-32.008 h 610.9881 c 17.6697,0 32.0052,14.3378 32.0052,32.008 z"
+   style="fill:#ffffff;fill-opacity:0.73;stroke:#006979;stroke-width:0.998023px"
+   id="path57" /><path
+   d="m 2409.0199,1355.4556 v 948.5236 c 0,16.1025 -13.0659,29.172 -29.1649,29.172 h -572.7008 c -16.0999,0 -29.1714,-13.0695 -29.1714,-29.172 v -948.5236 c 0,-16.1024 13.0715,-29.1719 29.1714,-29.1719 h 572.7008 c 16.099,0 29.1649,13.0695 29.1649,29.1719 z"
+   style="fill:#006979;stroke-width:0.944951"
+   id="path58" /><circle
+   cx="-1785.6758"
+   cy="2094.0481"
+   r="318.37561"
+   style="fill:#ffffff;stroke-width:1.21183"
+   id="circle59"
+   transform="rotate(-90)" /><g
+   transform="matrix(75,0,0,75,2190.2867,1984.148)"
+   id="g62">
+            </g><text
+   x="1992.0197"
+   y="1984.1479"
+   style="font-stretch:condensed;font-size:75px;font-family:ArialNarrow, Arial, sans-serif;fill:#006979"
+   id="text63">Lithium</text><circle
+   cx="1877.3262"
+   cy="1418.4312"
+   r="52.316765"
+   style="fill:#ffffff;stroke-width:0.772979"
+   id="circle63" /><g
+   transform="matrix(66.6667,0,0,66.6667,1911.453,1443.838)"
+   id="g65">
+            </g><text
+   x="1837.299"
+   y="1443.838"
+   style="font-weight:700;font-size:66.667px;font-family:Arial-BoldMT, Arial, sans-serif;fill:#006979"
+   id="text65">90</text>
+    <path
+   d="m 3121.0959,1337.5547 v 985.9915 c 0,17.6602 -14.3355,31.998 -32.0052,31.998 h -610.9881 c -17.6637,0 -32.0032,-14.3378 -32.0032,-31.998 v -985.9915 c 0,-17.6702 14.3395,-32.008 32.0032,-32.008 h 610.9881 c 17.6697,0 32.0052,14.3378 32.0052,32.008 z"
+   style="fill:#ffffff;fill-opacity:0.73;stroke:#006979;stroke-width:0.998023px"
+   id="path67" /><path
+   d="m 3100.1899,1355.4556 v 948.5236 c 0,16.1025 -13.0659,29.172 -29.1649,29.172 h -572.7008 c -16.0999,0 -29.1714,-13.0695 -29.1714,-29.172 v -948.5236 c 0,-16.1024 13.0715,-29.1719 29.1714,-29.1719 h 572.7008 c 16.099,0 29.1649,13.0695 29.1649,29.1719 z"
+   style="fill:#006979;stroke-width:0.944951"
+   id="path68" /><circle
+   cx="-1785.6758"
+   cy="2785.2183"
+   r="318.37561"
+   style="fill:#ffffff;stroke-width:1.21183"
+   id="circle69"
+   transform="rotate(-90)" /><g
+   transform="matrix(75,0,0,75,2901.9277,1984.148)"
+   id="g72">
+            </g><text
+   x="2662.7188"
+   y="1984.1479"
+   style="font-stretch:condensed;font-size:75px;font-family:ArialNarrow, Arial, sans-serif;fill:#006979"
+   id="text73">Berylium</text><circle
+   cx="2565.7568"
+   cy="1419.9532"
+   r="62.362465"
+   style="fill:#ffffff;stroke-width:0.921404"
+   id="circle73" /><g
+   transform="matrix(66.6667,0,0,66.6667,2619.7,1443.838)"
+   id="g75">
+            </g><text
+   x="2508.469"
+   y="1443.838"
+   style="font-weight:700;font-size:66.667px;font-family:Arial-BoldMT, Arial, sans-serif;fill:#006979"
+   id="text75">135</text>
+<text
+   xml:space="preserve"
+   id="text77"
+   style="font-family:sans-serif;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-orientation:auto;white-space:pre;shape-inside:url(#rect77)" /><text
+   xml:space="preserve"
+   style="font-size:75px;line-height:0.95;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9a4348;fill-opacity:1"
+   x="2091.313"
+   y="1686.848"
+   id="text78"><tspan
+     sodipodi:role="line"
+     id="tspan78"
+     x="2091.313"
+     y="1686.848"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">3 Protons</tspan><tspan
+     sodipodi:role="line"
+     x="2091.313"
+     y="1758.7821"
+     id="tspan79"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#9a4348;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">4 Neutrons</tspan><tspan
+     sodipodi:role="line"
+     x="2091.313"
+     y="1830.7162"
+     id="tspan80"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:url(#swatch82);fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">3 Electrons</tspan></text><text
+   xml:space="preserve"
+   style="font-size:75px;line-height:0.95;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;fill:#9a4348;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   x="1402.3491"
+   y="1681.9998"
+   id="text78-4"><tspan
+     sodipodi:role="line"
+     id="tspan78-5"
+     x="1402.3491"
+     y="1681.9998"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">2 Protons</tspan><tspan
+     sodipodi:role="line"
+     x="1402.3491"
+     y="1753.9338"
+     id="tspan79-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#9a4348;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">2 Neutrons</tspan><tspan
+     sodipodi:role="line"
+     x="1402.3491"
+     y="1825.8679"
+     id="tspan80-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:url(#swatch82);fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">2 Electrons</tspan></text><text
+   xml:space="preserve"
+   style="font-size:75px;line-height:0.95;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;fill:#9a4348;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   x="716.11816"
+   y="1681.9669"
+   id="text78-4-1"><tspan
+     sodipodi:role="line"
+     id="tspan78-5-5"
+     x="716.11816"
+     y="1681.9669"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">1 Proton</tspan><tspan
+     sodipodi:role="line"
+     x="716.11816"
+     y="1753.9009"
+     id="tspan80-1-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:url(#swatch82);fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">1 Electron</tspan></text><text
+   xml:space="preserve"
+   style="font-size:75px;line-height:0.95;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;fill:#9a4348;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   x="2782.613"
+   y="1685.0815"
+   id="text78-0"><tspan
+     sodipodi:role="line"
+     id="tspan78-9"
+     x="2782.613"
+     y="1685.0815"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">4 Protons</tspan><tspan
+     sodipodi:role="line"
+     x="2782.613"
+     y="1757.0156"
+     id="tspan79-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:#9a4348;fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">5 Neutrons</tspan><tspan
+     sodipodi:role="line"
+     x="2782.613"
+     y="1828.9497"
+     id="tspan80-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:0.95;font-family:ArialNarrow, Arial, sans-serif;-inkscape-font-specification:'ArialNarrow, Arial, sans-serif';text-align:center;text-anchor:middle;fill:url(#swatch82);fill-opacity:1;stroke:#1a1a1a;stroke-opacity:1">4 Electrons</tspan></text></svg>

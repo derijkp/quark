@@ -1,0 +1,67 @@
+LINKMULTI = duplicates
+LINKFILTER = cardtype = quark
+;LINKFILTER = num < 5
+LINK=all_particle_cards.xlsx
+
+PAGE=21,29.7,LANDSCAPE,HV
+CARDSIZE=5.715,8.89
+BORDER=NONE,#000000,0.1,MARKDOT,#000000
+DPI=300
+OVERSAMPLE=2
+
+
+[range_front]=1-{(NAME)}
+[range_back]={(NAME)+1}-{(NAME)*2}
+
+; first color was #446F9D
+
+VISUAL=, 10, 10
+;BGIMAGE
+IMAGE=[range_front],"quark_front_dark.png",0%,0%,100%,100%
+;HTMLFont name
+HTMLFONT=name,Arial Narrow,20,,#3A6333,CENTER,0,0,0,,,0,0
+;HTMLText name
+HTMLTEXT=[range_front],[NAME],{1944/193}%,{4219/100}%,{15497/193}%,{739/40}%,#FFFFFF,0,TE,100,name,name
+;HTMLFont factoid
+HTMLFONT=factoid,Arial,8,,#FFFFFF,CENTER
+;HTMLText factoid
+HTMLTEXT=[range_front],[FACTOID],{1258/193}%,{7819/100}%,{16841/193}%,{3657/200}%,#3A6333,0,ET,100,factoid
+;HTMLFont q
+HTMLFONT=q,Arial,16,B,#4E7F44,CENTER,0,0,0,,,0,0
+;HTMLText q
+HTMLTEXT=[range_front],[Q1],{4117/386}%,{657/100}%,{2516/193}%,{1157/150}%,#FFFFFF,0,TE,100,q
+;HTMLFont quark
+HTMLFONT=quark,Arial,18,B,#FFFFFF,CENTER,0,0,0,,#000000,0.02,0
+;HTMLFont altcombo
+HTMLFONT=altcombo,Arial,10,,#4E7F44,CENTER,0,0,0,,,0,0
+;HTMLText altcombo
+HTMLTEXT=[range_front],[ALTCOMBO],{14353/386}%,{20857/300}%,{9893/386}%,{2857/600}%,#FFFFFF,0,,100,altcombo,altcombo
+;HTMLFont pinfo
+HTMLFONT=pinfo,Arial,8,,#FFFFFF,RIGHT
+;HTMLText charge
+HTMLTEXT=[range_front],[CHARGE],{14525/386}%,{419/100}%,{21959/386}%,{1057/300}%,#3A6333,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[MASS],{16183/386}%,{1157/150}%,{20415/386}%,{1057/300}%,#3A6333,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[LIFETIME],{8549/193}%,{3371/300}%,{9807/193}%,{1057/300}%,#3A6333,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[YEAR],{11980/193}%,{1457/100}%,{6433/193}%,{1057/300}%,#3A6333,0,TE,100,pinfo,pinfo
+;HTMLFont symbol
+HTMLFONT=symbol,Arial,52,,#4E7F44,CENTER,0,0,0,,,0,0
+;HTMLText symbol
+HTMLTEXT=[range_front],[Q1],{14753/386}%,{2957/150}%,{4460/193}%,{7771/300}%,#FFFFFF,0,TE,100,symbol
+;HTMLFont decay
+HTMLFONT=decay,Arial,32,,#4E7F44,CENTER,0,0,0,,,0,0,,0,180
+;HTMLText decay
+HTMLTEXT=[range_front],[DECAY],{10865/386}%,{178/3}%,{17155/386}%,{4571/300}%,#FFFFFF,0,TE,100,decay,decay
+;HTMLFont topdecay
+HTMLFONT=topdecay,Arial,11,,#4E7F44,CENTER,0,0,0,,,0,0,,0,0
+;HTMLText topdecay
+HTMLTEXT=[range_front],[DECAY],{2859/386}%,{40/3}%,{3717/193}%,{757/150}%,#FFFFFF,0,TE,100,topdecay
+ENDVISUAL
+
+VISUAL=, 10, 10
+IMAGE=[range_back],"quark_back_dark.png",0%,0%,100%,100%
+ENDVISUAL
+
+DUPLEX = [range_front],[range_back]
+
+PRINT = DUPLEX
+

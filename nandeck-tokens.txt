@@ -1,0 +1,30 @@
+LINKMULTI = duplicates
+LINKFILTER = cardtype = hadron
+LINK=tokens.xlsx
+
+PAGE=21,29.7,LANDSCAPE,HV
+CARDSIZE=4,4
+BORDER=NONE,#000000,0.1,MARKDOT,#000000
+DPI=300
+OVERSAMPLE=2
+
+
+[range_front]=1-{(TOKENIMAGE)}
+[range_back]={(TOKENIMAGE)+1}-{(TOKENIMAGE)*2}
+
+; first color was #446F9D
+
+VISUAL=, 10, 10
+;BGIMAGE
+IMAGE=[range_front],[TOKENIMAGE],2%,2%,96%,96%
+ENDVISUAL
+
+VISUAL=, 10, 10
+;IMAGE
+IMAGE=[range_back],[TOKENIMAGE],2%,2%,96%,96%
+ENDVISUAL
+
+DUPLEX = [range_front],[range_back]
+
+PRINT = DUPLEX
+

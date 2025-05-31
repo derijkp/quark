@@ -1,0 +1,57 @@
+LINKUNI = ON
+LINKFILTER = cardtype = meson
+; LINK;FILTER = num < 5
+LINK=all_particle_cards.xlsx
+
+PAGE=21,29.7,LANDSCAPE,HV
+CARDSIZE=5.715,8.89
+BORDER=NONE,#000000,0.04,MARKDOT,#000000
+DPI=600
+OVERSAMPLE=2
+
+[range_front]=1-{(NAME)}
+[range_back]={(NAME)+1}-{(NAME)*2}
+
+VISUAL=, 10, 10
+;BGIMAGE
+IMAGE=[range_front],"meson_front.png",0%,0%,100%,100%
+;HTMLFont name
+HTMLFONT=name,Arial Narrow,16,,#9A4348,CENTER,0,0,0,,,0,0
+;HTMLText name
+HTMLTEXT=[range_front],[NAME],{3045/193}%,{5737/120}%,{26705/386}%,18%,#FFFFFE,0,TE,100,name,name
+;HTMLFont psymbol
+HTMLFONT=psymbol,Arial,14,,#9A4348,CENTER,0,0,0,,,0,0
+;HTMLText psymbol
+HTMLTEXT=[range_front],[PSYMBOL],{8549/193}%,{19057/300}%,{5203/386}%,6%,#FFFFFE,0,TE,100,psymbol,psymbol
+;HTMLFont factoid
+HTMLFONT=factoid,Arial,8,,#FFFFFF,CENTER
+;HTMLText factoid
+HTMLTEXT=[range_front],[FACTOID],{1258/193}%,{7819/100}%,{16841/193}%,{3657/200}%,#446F9D,0,TE,100,factoid
+;HTMLFont score
+HTMLFONT=score,Arial,16,B,#9A4348,CENTER,0,0,0,,,0,0
+;HTMLText score
+HTMLTEXT=[range_front],[VALUE],{4803/386}%,{22/3}%,{4403/386}%,{4057/600}%,#FFFFFF,0,,100,score
+;HTMLFont quark
+HTMLFONT=quark,Arial,18,B,#FFFFFF,CENTER,0,0,0,,#000000,0.02,0
+;HTMLText q1
+HTMLTEXT=[range_front],[Q1],{10893/386}%,{7057/200}%,{4917/386}%,{819/100}%,#000001,0,TE,100,quark
+HTMLTEXT=[range_front],[Q2],{22959/386}%,{1419/40}%,{4717/386}%,{2357/300}%,#000001,0,TE,100,quark
+;HTMLFont altcombo
+HTMLFONT=altcombo,Arial Narrow,10,,#446F9D,CENTER,0,0,0,,,0,0
+;HTMLFont pinfo
+HTMLFONT=pinfo,Arial,8,,#FFFFFF,RIGHT
+;HTMLText pinfo
+HTMLTEXT=[range_front],[CHARGE],{14525/386}%,{419/100}%,{21959/386}%,{1057/300}%,#9A4348,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[MASS],{16183/386}%,{1157/150}%,{20415/386}%,{1057/300}%,#9A4348,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[LIFETIME],{8549/193}%,{3371/300}%,{9807/193}%,{1057/300}%,#9A4348,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[YEAR],{11980/193}%,{1457/100}%,{6433/193}%,{1057/300}%,#9A4348,0,TE,100,pinfo,pinfo
+ENDVISUAL
+
+VISUAL=, 10, 10
+IMAGE=[range_back],"meson_back.png",0%,0%,100%,100%
+ENDVISUAL
+
+DUPLEX = [range_front],[range_back]
+
+PRINT = DUPLEX
+

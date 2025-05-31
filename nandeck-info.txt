@@ -1,0 +1,30 @@
+;LINKMULTI = duplicates
+;LINKFILTER = cardtype = quark
+;LINKFILTER = num < 5
+;LINK=all_particle_cards.xlsx
+
+PAGE=21,29.7,LANDSCAPE,HV
+CARDSIZE=5.715,8.89
+BORDER=NONE,#000000,0.1,MARKDOT,#000000
+DPI=300
+OVERSAMPLE=2
+
+
+[range_front]=1-4
+[range_back]={4+1}-{4*2}
+
+; first color was #446F9D
+
+VISUAL=, 10, 10
+;BGIMAGE
+IMAGE=[range_front],"infocards.png",0%,0%,100%,100%
+ENDVISUAL
+
+VISUAL=, 10, 10
+IMAGE=[range_back],"infocards.png",0%,0%,100%,100%
+ENDVISUAL
+
+DUPLEX = [range_front],[range_back]
+
+PRINT = DUPLEX
+

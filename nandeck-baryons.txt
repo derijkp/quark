@@ -1,0 +1,53 @@
+LINKUNI = ON
+LINKFILTER = cardtype = baryon
+;LINKFILTER = num < 5
+LINK=all_particle_cards.xlsx
+
+PAGE=21,29.7,LANDSCAPE,HV
+CARDSIZE=5.715,8.89
+BORDER=NONE,#000000,0.01,MARKDOT,#000000
+DPI=300
+OVERSAMPLE=2
+
+
+[range_front]=1-{(NAME)}
+[range_back]={(NAME)+1}-{(NAME)*2}
+
+VISUAL=, 10, 10
+;BGIMAGE
+IMAGE=[range_front],"baryon_front.png",0%,0%,100%,100%
+HTMLFONT=name,Arial Narrow,16,,#446F9D,CENTER,0,0,0,,,0,0
+;TITLE
+HTMLTEXT=[range_front],[NAME],{4917/386}%,{5977/120}%,{29107/386}%,{12571/600}%,#FFFFFF,0,TE,100,name,name
+HTMLFONT=font1,Arial,12,,#000000
+;BOTTOM
+HTMLMARGINS=font1,0,0,0,0,center
+HTMLFONT=factoid,Arial,8,,#FFFFFF,CENTER
+HTMLTEXT=[range_front],[FACTOID],{1258/193}%,{7819/100}%,{16841/193}%,{3657/200}%,#446F9D,0,ET,100,factoid
+;HTMLFont score
+HTMLFONT=score,Arial,16,B,#446F9D,CENTER,0,0,0,,,0,0
+;HTMLText score
+HTMLTEXT=[range_front],[VALUE],{4803/386}%,{22/3}%,{4403/386}%,{4057/600}%,#FFFFFF,0,,100,score
+;HTMLFont quark
+HTMLFONT=quark,Arial,18,B,#FFFFFF,CENTER,0,0,0,,#000000,0.02,0
+;HTMLText q1
+HTMLTEXT=[range_front],[Q1],{16983/386}%,{74/3}%,{4803/386}%,8%,#000001,0,TE,100,quark,quark
+HTMLTEXT=[range_front],[Q2],{28/1}%,{22171/600}%,{2516/193}%,{937/120}%,#000001,0,TE,100,quark,quark
+HTMLTEXT=[range_front],[Q3],{22759/386}%,{11057/300}%,{2516/193}%,{419/50}%,#000001,0,TE,100,quark,quark
+HTMLFONT=altcombo,Arial,10,,#446F9D,CENTER,0,0,0,,,0,0
+HTMLTEXT=[range_front],[ALTCOMBO],{14353/386}%,{20857/300}%,{9893/386}%,{2857/600}%,#FFFFFF,0,,100,altcombo,altcombo
+HTMLFONT=pinfo,Arial,8,,#FFFFFF,RIGHT
+HTMLTEXT=[range_front],[CHARGE],{14525/386}%,{419/100}%,{21959/386}%,{1057/300}%,#446F9D,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[MASS],{16183/386}%,{1157/150}%,{20415/386}%,{1057/300}%,#446F9D,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[LIFETIME],{8549/193}%,{3371/300}%,{9807/193}%,{1057/300}%,#446F9D,0,TE,100,pinfo,pinfo
+HTMLTEXT=[range_front],[YEAR],{11980/193}%,{1457/100}%,{6433/193}%,{1057/300}%,#446F9D,0,TE,100,pinfo,pinfo
+ENDVISUAL
+
+VISUAL=, 10, 10
+IMAGE=[range_back],"baryon_back.png",0%,0%,100%,100%
+ENDVISUAL
+
+DUPLEX = [range_front],[range_back]
+
+PRINT = DUPLEX
+

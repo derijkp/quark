@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-41.5868,-2153.42)">
+        <g transform="matrix(0.933277,0,0,0.956771,-154.153,851.746)">
+            <path d="M1090.18,1553.11L1090.18,2544.49C1090.18,2561.32 1076.18,2574.98 1058.93,2574.98L445.285,2574.98C428.034,2574.98 414.028,2561.32 414.028,2544.49L414.028,1553.11C414.028,1536.28 428.034,1522.62 445.285,1522.62L1058.93,1522.62C1076.18,1522.62 1090.18,1536.28 1090.18,1553.11Z" style="fill:none;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:4.08px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,71.4738,1333.65)">
+            <text x="367.59px" y="1061.89px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">Actions</text>
+            <text x="187.563px" y="1130.74px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">• <tspan x="262.563px " y="1130.74px ">d</tspan>raw card</text>
+            <text x="187.563px" y="1199.59px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">• <tspan x="262.563px " y="1199.59px ">d</tspan>iscard 1/draw 2</text>
+            <text x="187.563px" y="1268.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">• <tspan x="262.563px " y="1268.44px ">d</tspan>ecay</text>
+            <text x="187.563px" y="1337.28px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">• <tspan x="262.563px " y="1337.28px ">a</tspan>nnihilate</text>
+            <text x="187.563px" y="1406.13px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">• <tspan x="262.563px " y="1406.13px ">c</tspan>reate</text>
+            <text x="282.336px" y="1506.13px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">Energy gains</text>
+            <text x="187.563px" y="1574.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;stroke:rgb(78,127,68);stroke-opacity:0.73;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">• <tspan x="262.563px " y="1574.98px ">t</tspan> +</text>
+            <text x="357.062px" y="1574.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;">t<tspan x="366.013px 375.584px 394.106px 487.563px " y="1575.3px 1574.98px 1574.98px 1574.98px ">̅  =</tspan> 8</text>
+            <text x="187.563px" y="1643.83px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;">• <tspan x="262.563px " y="1643.83px ">b</tspan> + b<tspan x="393.357px 412.693px 431.215px 487.563px " y="1644.15px 1643.83px 1643.83px 1643.83px ">̅  =</tspan> 6</text>
+            <text x="187.563px" y="1712.67px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;">• <tspan x="262.563px " y="1712.67px ">c</tspan> + c<tspan x="389.776px 405.206px 423.728px 487.563px " y="1723.97px 1712.67px 1712.67px 1712.67px ">̅  =</tspan> 5</text>
+            <text x="187.563px" y="1781.52px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;">• <tspan x="262.563px " y="1781.52px ">s</tspan> + s<tspan x="387.823px 405.206px 423.728px 487.563px " y="1792.82px 1781.52px 1781.52px 1781.52px ">̅  =</tspan> 4</text>
+            <text x="187.563px" y="1850.37px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;">• <tspan x="262.563px " y="1850.37px ">d</tspan> + d<tspan x="392.869px 412.693px 431.215px 487.563px " y="1850.69px 1850.37px 1850.37px 1850.37px ">̅  =</tspan> 3</text>
+            <g transform="matrix(66.6667,0,0,66.6667,582.094,1919.22)">
+            </g>
+            <text x="187.563px" y="1919.22px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;">• <tspan x="262.563px " y="1919.22px ">u</tspan> + u<tspan x="393.52px 412.693px 431.215px 487.563px " y="1930.51px 1919.22px 1919.22px 1919.22px ">̅  =</tspan> 2</text>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(5.05398e-17,-0.825378,0.825378,5.05398e-17,711.431,800.319)">
+            <circle cx="423.473" cy="610.344" r="262.723" style="fill:rgb(68,111,157);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,838.767,-528.03)">
+            <g transform="matrix(100,0,0,100,489.526,1085.72)">
+            </g>
+            <text x="247.924px" y="1085.72px" style="font-family:'ArialNarrow', 'Arial', sans-serif;font-stretch:condensed;font-size:100px;fill:white;">Proton</text>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,837.527,74.6062)">
+            <g transform="matrix(0.888315,0,0,0.888315,127.502,-441.43)">
+                <circle cx="596.596" cy="1063.13" r="67.682" style="fill:rgb(0,105,240);stroke:white;stroke-width:6.37px;"/>
+            </g>
+            <g transform="matrix(0.888315,0,0,0.888315,22.3221,-569.983)">
+                <circle cx="596.596" cy="1063.13" r="67.682" style="fill:rgb(0,162,19);stroke:white;stroke-width:6.37px;"/>
+            </g>
+            <g transform="matrix(0.888315,0,0,0.888315,-83.7528,-438.71)">
+                <circle cx="596.596" cy="1063.13" r="67.682" style="fill:rgb(255,41,41);stroke:white;stroke-width:6.37px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,807.026,-377.368)">
+            <g transform="matrix(83.3333,0,0,83.3333,623.036,1058.09)">
+            </g>
+            <text x="576.69px" y="1058.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1.47px;stroke-linecap:butt;stroke-miterlimit:2;">u</text>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,781.816,-340.731)">
+            <g transform="matrix(83.3333,0,0,83.3333,765.831,1139.84)">
+            </g>
+            <text x="719.485px" y="1139.84px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1.47px;stroke-linecap:butt;stroke-miterlimit:2;">d</text>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,723.258,-342.139)">
+            <g transform="matrix(83.3333,0,0,83.3333,638.961,1139.84)">
+            </g>
+            <text x="592.615px" y="1139.84px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1.47px;stroke-linecap:butt;stroke-miterlimit:2;">u</text>
+        </g>
+    </g>
+    <g transform="matrix(0.728643,0,0,0.747619,-332.303,-126.27)">
+        <path d="M2127.86,1149.07L2155.48,1178.23L2190.29,1159.51L2208.03,1196.24L2246.62,1189.79L2252.73,1230.51L2291.32,1236.96L2285.2,1277.68L2320.01,1296.4L2302.28,1333.13L2329.9,1362.29L2302.28,1391.44L2320.01,1428.17L2285.2,1446.89L2291.32,1487.61L2252.73,1494.06L2246.62,1534.78L2208.03,1528.33L2190.29,1565.07L2155.48,1546.35L2127.86,1575.5L2100.23,1546.35L2065.42,1565.07L2047.69,1528.33L2009.1,1534.78L2002.99,1494.06L1964.4,1487.61L1970.51,1446.89L1935.7,1428.17L1953.44,1391.44L1925.81,1362.29L1953.44,1333.13L1935.7,1296.4L1970.51,1277.68L1964.4,1236.96L2002.99,1230.51L2009.1,1189.79L2047.69,1196.24L2065.42,1159.51L2100.23,1178.23L2127.86,1149.07Z" style="fill:url(#_Radial1);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-38.5815,-32.4897)">
+        <g transform="matrix(5.05398e-17,-0.825378,0.825378,5.05398e-17,1338.38,823.163)">
+            <circle cx="423.473" cy="610.344" r="262.723" style="fill:rgb(154,67,72);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1465.72,-505.185)">
+            <g transform="matrix(100,0,0,100,514.575,1085.72)">
+            </g>
+            <text x="222.875px" y="1085.72px" style="font-family:'ArialNarrow', 'Arial', sans-serif;font-stretch:condensed;font-size:100px;fill:white;">Neutron</text>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,1464.48,97.4505)">
+            <g transform="matrix(0.888315,0,0,0.888315,127.502,-441.43)">
+                <circle cx="596.596" cy="1063.13" r="67.682" style="fill:rgb(0,105,240);stroke:white;stroke-width:6.37px;"/>
+            </g>
+            <g transform="matrix(0.888315,0,0,0.888315,22.3221,-569.983)">
+                <circle cx="596.596" cy="1063.13" r="67.682" style="fill:rgb(0,162,19);stroke:white;stroke-width:6.37px;"/>
+            </g>
+            <g transform="matrix(0.888315,0,0,0.888315,-83.7528,-438.71)">
+                <circle cx="596.596" cy="1063.13" r="67.682" style="fill:rgb(255,41,41);stroke:white;stroke-width:6.37px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,1433.98,-354.524)">
+            <g transform="matrix(83.3333,0,0,83.3333,623.036,1058.09)">
+            </g>
+            <text x="576.69px" y="1058.09px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1.47px;stroke-linecap:butt;stroke-miterlimit:2;">u</text>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,1408.77,-317.887)">
+            <g transform="matrix(83.3333,0,0,83.3333,765.831,1139.84)">
+            </g>
+            <text x="719.485px" y="1139.84px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1.47px;stroke-linecap:butt;stroke-miterlimit:2;">d</text>
+        </g>
+        <g transform="matrix(0.681099,0,0,0.681099,1350.21,-319.294)">
+            <g transform="matrix(83.3333,0,0,83.3333,638.961,1139.84)">
+            </g>
+            <text x="592.615px" y="1139.84px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:83.333px;fill:white;stroke:black;stroke-width:1.47px;stroke-linecap:butt;stroke-miterlimit:2;">d</text>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(202.045,-1.30556e-14,1.23717e-14,213.214,2127.86,1362.29)"><stop offset="0" style="stop-color:rgb(255,250,140);stop-opacity:1"/><stop offset="0.64" style="stop-color:rgb(255,241,119);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(252,187,0);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
